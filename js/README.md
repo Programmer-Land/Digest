@@ -15,4 +15,5 @@ Node.js kernel installation is rather straigntforward:
 4. ijsinstall
 
 That's it. Now you will see Javascript(Node.js) among kernel options.
-    
+
+The only drawback I've found so far in JS notebooks is the need to restart kernel in order to rerun a cell with variable declaration.
